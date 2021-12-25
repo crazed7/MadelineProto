@@ -19,8 +19,9 @@
 	"extensions": [
 		"felixfbecker.php-debug",
 		"felixfbecker.php-intellisense",
-                "getpsalm.psalm-vscode-plugin",
-                "junstyle.php-cs-fixer"
+		"getpsalm.psalm-vscode-plugin",
+		"junstyle.php-cs-fixer",
+		"ms-kubernetes-tools.vscode-kubernetes-tools"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
