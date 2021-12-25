@@ -12,7 +12,8 @@
 	
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
-		"terminal.integrated.shell.linux": "/bin/bash"
+		
+		
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
@@ -21,7 +22,13 @@
 		"felixfbecker.php-intellisense",
 		"getpsalm.psalm-vscode-plugin",
 		"junstyle.php-cs-fixer",
-		"ms-kubernetes-tools.vscode-kubernetes-tools"
+		"ms-kubernetes-tools.vscode-kubernetes-tools",
+		"mindaro-dev.file-downloader",
+		"kelvin.vscode-sshfs",
+		"ms-vscode.azure-account",
+		"bmewburn.vscode-intelephense-client",
+		"ikappas.phpcs",
+		"ms-azuretools.vscode-docker"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
